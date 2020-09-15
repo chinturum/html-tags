@@ -75,17 +75,17 @@ href="mailto:email"			Link which initiates an email (dependant on user's email c
 
 
 Lists	
-<ol> ... </ol>	Ordered List
-<ul> ... </ul>	Un-ordered List
-<li> ... </li>	List Item (within ordered or unordered)
-<ol type="?">	Ordered list type: A, a, I, i, 1
-<ol start="??">	Ordered list starting value
-<ul type="?">	Unordered list bullet type: disc, circle, square
-<li value="??">	List Item Value (changes current and subsequent items)
-<li type="??">	List Item Type (changes only current item)
-<dl> ... </dl>	Definition List
-<dt> ... </dt>	Term or phrase being defined
-<dd> ... </dd>	Detailed Definition of term
+<ol> ... </ol>				Ordered List
+<ul> ... </ul>				Un-ordered List
+<li> ... </li>				List Item (within ordered or unordered)
+<ol type="?">				Ordered list type: A, a, I, i, 1
+<ol start="??">				Ordered list starting value
+<ul type="?">				Unordered list bullet type: disc, circle, square
+<li value="??">				List Item Value (changes current and subsequent items)
+<li type="??">				List Item Type (changes only current item)
+<dl> ... </dl>				Definition List
+<dt> ... </dt>				Term or phrase being defined
+<dd> ... </dd>				Detailed Definition of term
 
 
 Tables	
